@@ -1,0 +1,15 @@
+{
+  "groups": [
+    {
+      "name": "feign",
+      "type": "com.peachyy.feign.autoconfgure.FeignIgnoreFeignExceptionAutoConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "feign.ignoreException.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.peachyy.feign.autoconfgure.FeignIgnoreFeignExceptionAutoConfiguration"
+    }
+  ]
+}
